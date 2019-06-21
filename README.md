@@ -10,4 +10,4 @@ $ git clone "https://github.com/luparev22/XEngl"
 $ cd XEngl
 $ make run
 ```
-<p align="center"><br>ТРПО, Курсовой проект, 2019 г. </p>
+<p align="center"><br>ТРПО, Курсовой проект, 2019 г.  343 </p>
